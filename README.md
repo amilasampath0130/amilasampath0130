@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Amila Sampath 👋
 
-<!--
-**amilasampath0130/amilasampath0130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electro Technology Undergraduate  
+🔧 Embedded Systems & IoT Developer  
+📡 Working with ESP32, Arduino, and real-time monitoring systems  
 
-Here are some ideas to get you started:
+## 🔬 Current Focus
+- Autonomous Smart Agriculture Monitoring Robot
+- IoT-based Embedded Systems
+- Microcontroller Programming & Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- C / Embedded C / Python
+- ESP32 / Arduino
+- I2C / SPI / UART
+- Proteus / MATLAB
+- Git & GitHub
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/amilasampath0130
